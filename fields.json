@@ -1,0 +1,77 @@
+[
+    {
+        "field_name": "Vorname",
+        "field_type": "text",
+        "unique_name": "field_97f7a80d",
+        "placeholder": "Dein Vorname",
+        "default_value": "",
+        "required": true
+    },
+    {
+        "field_name": "Geburtstag",
+        "field_type": "date",
+        "unique_name": "field_01c7094d",
+        "placeholder": "",
+        "default_value": "",
+        "required": false
+    },
+    {
+        "field_name": "Geschlecht",
+        "field_type": "select",
+        "unique_name": "field_70073988",
+        "placeholder": "",
+        "default_value": "",
+        "required": true,
+        "field_options": [
+            "M\u00e4dchen",
+            "Junge",
+            "Divers"
+        ]
+    },
+    {
+        "field_name": "In-Game Name",
+        "field_type": "text",
+        "unique_name": "field_7eb782d4",
+        "placeholder": "Hier kommt dein In-Game Name rein.",
+        "default_value": "",
+        "required": true
+    },
+    {
+        "field_name": "Warum m\u00f6chtest du in unser Team?",
+        "field_type": "textarea",
+        "unique_name": "field_72e04e93",
+        "placeholder": "Schreibe kurz warum du dich bei uns Bewirbst. ",
+        "default_value": "",
+        "required": true
+    },
+    {
+        "field_name": "Was was bewirbst du dich?",
+        "field_type": "select",
+        "unique_name": "field_6a6ffe00",
+        "placeholder": "",
+        "default_value": "",
+        "required": true,
+        "field_options": [
+            "Supporter",
+            "Moderator",
+            "Developer",
+            "Admin"
+        ]
+    },
+    {
+        "field_name": "Was ist dein k\u00f6nnen in diesem Bereich?",
+        "field_type": "textarea",
+        "unique_name": "field_b64c04ec",
+        "placeholder": "Beschreibe deine Skills in dem ausgew\u00e4hlten bereich. ",
+        "default_value": "",
+        "required": true
+    },
+    {
+        "field_name": "E-Mail",
+        "field_type": "email",
+        "unique_name": "field_527116ee",
+        "placeholder": "max.muster@gmx.de",
+        "default_value": "",
+        "required": true
+    }
+]

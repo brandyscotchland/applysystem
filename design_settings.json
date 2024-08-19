@@ -1,0 +1,13 @@
+{
+    "theme": "light",
+    "text_color": "#141414",
+    "font_family": "Poppins",
+    "input_background_color": "#ffffff",
+    "input_border_color": "#000000",
+    "input_placeholder_color": "#000000",
+    "button_color": "#0a7708",
+    "button_text_color": "#ffffff",
+    "navbar_color": "#c2c2c2",
+    "navbar_text_color": "#000000",
+    "container_width": "80%"
+}
